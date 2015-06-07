@@ -1,0 +1,36 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: sphinx_test 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-07 14:56+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../index.rst:7
+msgid "Welcome to sphinx_test's documentation!"
+msgstr ""
+
+#: ../../index.rst:9
+msgid "Contents:"
+msgstr ""
+
+#: ../../index.rst:19
+msgid "Indices and tables"
+msgstr ""
+
+#: ../../index.rst:21
+msgid ":ref:`genindex`"
+msgstr ""
+
+#: ../../index.rst:22
+msgid ":ref:`modindex`"
+msgstr ""
+
+#: ../../index.rst:23
+msgid ":ref:`search`"
+msgstr ""
